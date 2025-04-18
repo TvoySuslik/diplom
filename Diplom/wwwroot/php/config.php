@@ -1,0 +1,5 @@
+<?php
+$siteConfig = [
+    'title' => "Castorice"
+];
+?>
